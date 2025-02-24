@@ -27,7 +27,7 @@ I enjoy leveraging data-driven insights to optimize business strategies and solv
 
 ### **Jiangxi University of Finance and Economics**  
 📖 *Bachelor of Science in Finance (Finance Risk Management)*  
-📅 Graduation: **July 2024** | **GPA: 3.65/4.00**  
+📅 Graduation: **July 2024** | **GPA: 88.21/100**  
 🏆 **Honors**: Outstanding Student, Outstanding Student Cadre  
 
 ---
