@@ -79,7 +79,7 @@ I enjoy leveraging data-driven insights to optimize business strategies and solv
 
 ## 🛠 Skills
 
-- **Languages**: Python, R, KNIME, SQL, SPSS, Tableau, Wolfram, AWS
+- **Languages**: Python(over 3 years), R, SQL, KNIME, SPSS, Tableau, Wolfram, AWS
 - **Machine Learning**: Random Forest, Logistic Regression, ANN, Decision Trees
 - **Business & Finance Tools**: Microsoft Excel, Word, PowerPoint, Financial Data Terminals(iFind, Choice)
 - **Certifications**: Certified Financial Risk Manager (FRM) Part 1, National Python Computing Level 2
