@@ -39,7 +39,7 @@ I enjoy leveraging data-driven insights to optimize business strategies and solv
 - 📈 Conducted data wrangling, correlation analysis, and data visualization.
 - 🔍 Developed predictive models (**Logistic Regression, ANN, Random Forest**), achieving **75%+ accuracy**.
 - 📊 Used **partial dependency plots** to explain key donation predictors for stakeholders.
-- 📑 Conducted cluster analysis, identifying **4 clusters** with varying donation potential, providing insights on high-priority donor characteristics.
+- 📑 Performed cluster analysis to identified **4 donor groups** with different giving potential, revealing key traits driving donation differences.
 
 ### **Western Securities Co., Ltd, Shanghai, China**  
 📌 **Research Assistant (Intern) – Fixed Income Security** *(Mar 2024 – May 2024)*  
