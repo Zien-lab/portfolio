@@ -12,7 +12,7 @@
 
 I am a **Business Analyst & Data Scientist** with expertise in:
 - 🧠 **Machine Learning & Predictive Modeling**
-- 📊 **Data Analysis & Visualization**
+- 📊 **Data Analysis & Engineering**
 - 🚀 **Business Analytics & Risk Management**
 
 I enjoy leveraging data-driven insights to optimize business strategies and solve complex financial problems.
