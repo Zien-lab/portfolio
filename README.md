@@ -65,13 +65,3 @@ My work focuses on **machine learning**, **ETL automation**, and **data-driven d
 
 📧 **Email:** zhuzien293@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/aiden-z](https://www.linkedin.com/in/aiden-z/)  
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zienzhu&show_icons=true&theme=tokyonight" alt="Aiden's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zienzhu&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
