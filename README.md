@@ -41,12 +41,12 @@ My work focuses on **machine learning**, **ETL automation**, and **data-driven d
 - Streamlined reporting pipelines, reducing manual effort by 30%+  
 - Built Tableau dashboards and conducted SPSS-based statistical analysis  
 
-### **Gies Advancement Office – Data Scientist Intern (Champaign, IL)** *(Jan 2025 – May 2025)*  
+### **Gies Advancement Office – Data Scientist (Champaign, IL)** *(Jan 2025 – May 2025)*  
 - Segmented 13k alumni into 3 clusters via unsupervised learning  
 - Built ML models (80% accuracy) predicting donor probability  
 - Created an interactive donor-identification web tool  
 
-### **Intelliimpact LLC – Marketing Data Analyst Intern (Dallas, TX)** *(Aug 2024 – Dec 2024)*  
+### **Intelliimpact LLC – Marketing Data Analyst (Dallas, TX)** *(Aug 2024 – Dec 2024)*  
 - Built SQL ETL pipelines for marketing analytics  
 - Conducted A/B tests that improved CTR by 12% and open rates by 10%  
 - Delivered actionable insights via Tableau dashboards  
